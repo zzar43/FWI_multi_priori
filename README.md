@@ -9,7 +9,7 @@ https://prism.ucalgary.ca/handle/1880/113148
 
 ## Installation
 ```
-git clone https://github.com/zzar43/FWI_OT
+git clone https://github.com/zzar43/FWI_multi_priori
 ```
 
 ## How to use
@@ -37,5 +37,7 @@ The inverse results for each iterations are saved in the folder ``temp_data''.
 
 ## Demo
 
-Here is a demo:
-![Marmousi model](https://github.com/zzar43/FWI_OT/blob/main/demo/marmousi.jpg)
+Demo 1:
+![Crosswell model](https://github.com/zzar43/FWI_multi_priori/blob/main/demo/cross_well2.jpg)
+
+![Overthrust model](https://github.com/zzar43/FWI_multi_priori/blob/main/demo/overthrust.jpg)
